@@ -6,3 +6,7 @@ FLUXO
 
 DOCKER
 <img width="3085" height="645" alt="image" src="https://github.com/user-attachments/assets/197b6938-f0e1-4056-8454-78c7db7521de" />
+
+
+EXEMPLO DE APLICAO DE TESTES
+<img width="1975" height="1000" alt="image" src="https://github.com/user-attachments/assets/b41ecf61-ca60-4ef4-8cb7-2b766be80678" />
